@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/mern-typescript-openai-app.git
+git clone [https://github.com/your-username/mern-typescript-openai-app.git](https://github.com/Pratik1031/chat-bot-backend)
 Change to the project directory:
 
 bash
